@@ -1,1 +1,2 @@
-GLCAP - Dynamic Allow List
+10.20.62.1-254
+
