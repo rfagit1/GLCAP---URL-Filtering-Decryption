@@ -8,6 +8,7 @@ knickerblogger.net
 *.retailmenot.com
 *.linkedin.com
 *.logmein.com
+logmein.com
 *.aksia.co
 aksia.co
 *.contextweb.com
