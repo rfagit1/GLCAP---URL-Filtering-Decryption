@@ -1,7 +1,8 @@
-mad4it.com
 *.mad4it.com
 *.msn.com
-msn.com
+*.retailmenot.com
+*.mappery.com
+*.contactmonkey.com
 *.aksia.co
 aksia.co
 *.contextweb.com
@@ -26,8 +27,6 @@ systemaffiliate.com
 no-ip.com
 *.myftp.org
 myftp.org
-*.mappery.com
-mappery.com
 *.hedgeho.com
 hedgeho.com
 *.etaskex.eu.tc
@@ -46,8 +45,6 @@ exelator.com
 shopbestreviews.com
 *.newscanary.com
 newscanary.com
-*.retailmenot.com
-retailmenot.com
 *.antispywareon.com
 antispywareon.net
 *.antispywareon.net
