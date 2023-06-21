@@ -4,6 +4,7 @@
 *.mappery.com
 *.contactmonkey.com
 *.aksia.co
+gizmodo.com
 aksia.co
 *.contextweb.com
 contextweb.com
@@ -70,5 +71,3 @@ verticalresponse.net
 *.verticalresponse.net
 quantcast.net
 *.quantcast.net
-*.contactmonkey.com
-contactmonkey.com
