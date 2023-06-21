@@ -1,6 +1,6 @@
 *.mad4it.com
 *.msn.com
-*.retailmenot.com
+retailmenot.com
 *.mappery.com
 *.contactmonkey.com
 *.aksia.co
