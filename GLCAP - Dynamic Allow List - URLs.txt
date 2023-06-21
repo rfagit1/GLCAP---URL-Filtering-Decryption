@@ -80,8 +80,6 @@ google.com/drive/static
 *.google.com/drive/static
 *.egnyte.com
 egnyte.com
-linkedin.com
-*.linkedin.com
 vimeo.com/829874280?share=copy 
 *.sfowa-ec2.sharefile.com
 sfowa-ec2.sharefile.com
