@@ -5,6 +5,7 @@
 *.dnsfilter.com
 *.retailmenot.com
 *.linkedin.com
+*.logmein.com
 *.aksia.co
 *.contextweb.com
 *.activationsystems.com
