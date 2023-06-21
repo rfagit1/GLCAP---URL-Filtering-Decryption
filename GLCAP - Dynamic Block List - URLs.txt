@@ -40,8 +40,6 @@ ru4.com
 pubmatic.com
 *.exelator.com
 exelator.com
-*.logmein.com
-logmein.com
 *.shopbestreviews.com
 shopbestreviews.com
 *.newscanary.com
