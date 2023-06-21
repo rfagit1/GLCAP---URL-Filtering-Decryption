@@ -99,3 +99,5 @@ proofpoint.com
 paloaltonetworks.com
 *.docs.google.com/document/d/1xaumgGPh8EuJeliuoFcKzIgGLL5O7LEcBTioNOnQObA/edit
 docs.google.com/document/d/1xaumgGPh8EuJeliuoFcKzIgGLL5O7LEcBTioNOnQObA/edit
+yahoo.com
+*.yahoo.com
