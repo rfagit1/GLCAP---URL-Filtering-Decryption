@@ -1,9 +1,9 @@
 *.mad4it.com
 *.msn.com
-gizmodo.com
-knickerblogger.net
+*.gizmodo.com
+*. knickerblogger.net
 *.dnsfilter.com
-*.retailmenot.com/
+*.retailmenot.com
 *.linkedin.com
 *.aksia.co
 *.contextweb.com
